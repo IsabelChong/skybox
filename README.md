@@ -1,5 +1,5 @@
 # SkyBox 🌌📦
-##### An infinite obstacle game created using Unity with C# 👾.
+##### An "infinite" obstacle game created using Unity with C# 👾.
 ##### Created as a tutorial into Unity 3D game development~
 
 
