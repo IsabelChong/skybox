@@ -9,7 +9,7 @@ Build Settings: Player Settings > Publish Settings > Compression Format > Gzip (
 <p><a href = "https://play.unity.com/mg/other/skybox_webgzip">Check it out on the Unity Community it here!</a></p>
 <p><a href = "https://isabelchong.github.io/SkyBox/">And enjoy a smoother gameplay here~</a></p>
 
-<i>Features include:</i>
+<i>Features:</i>
 - Custom Gradient Night Sky Skybox Material.
 - Distance Scoring System with Highscore.
 - Player Audio Effects and Theme Audio.
