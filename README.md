@@ -7,4 +7,4 @@
 - Custom Gradient Skybox Material.
 - Distance Scoring System with Highscore.
 - Player Audio Effects and Theme Audio.
-- Randomly Generated Sections of Obstacles (3 Sections in total)
+- Randomly Generated Sections of Obstacles.
