@@ -4,7 +4,7 @@
 
 
 <i>Features include:</i>
-- Custom Gradient Skybox Material.
+- Custom Gradient Night Sky Skybox Material.
 - Distance Scoring System with Highscore.
 - Player Audio Effects and Theme Audio.
 - Randomly Generated Sections of Obstacles.
