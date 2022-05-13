@@ -2,7 +2,7 @@
 ##### An "infinite" obstacle game created using Unity with C# 👾.
 ##### Created as a tutorial into Unity 3D game development~
 
-p.s I tried various settings to enable gameplay on WebGL and here are the settings that worked for me! (At a cost of its lagginess)
+Note: I tried various settings to enable gameplay on WebGL and here are the settings that worked for me! (At a cost of its lagginess)
 
 <p>Build Settings: Player Settings > Publish Settings > Compression Format > Gzip (Decompression Fallback Checked or Unchecked)
 (As of Unity2021.3.2f1)</p>
