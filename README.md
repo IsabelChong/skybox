@@ -1,7 +1,6 @@
 # SkyBox 🌌📦
-##### An "infinite" obstacle game created using Unity with C# 👾.
-##### Created as a tutorial into Unity 3D game development~
-##### Still updating its features and gameplay in the process <:
+##### A really simple "infinite" obstacle game created using Unity with C# 👾.
+##### Created as a mini tutorial into Unity 3D game development~
 
 Note: I tried various settings to enable gameplay on WebGL and here are the settings that worked for me! (At a cost of its lagginess)
 
@@ -16,4 +15,5 @@ Note: I tried various settings to enable gameplay on WebGL and here are the sett
 - Custom Gradient Night Sky Skybox Material.
 - Distance Scoring System with Highscore.
 - Player Audio Effects and Theme Audio.
-- Randomly Generated Sections of Obstacles.
+- Randomly Generated SectionsX3 of Obstacles.
+- 
