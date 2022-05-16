@@ -16,4 +16,3 @@ Note: I tried various settings to enable gameplay on WebGL and here are the sett
 - Distance Scoring System with Highscore.
 - Player Audio Effects and Theme Audio.
 - Randomly Generated SectionsX3 of Obstacles.
-- 
