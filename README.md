@@ -1,5 +1,5 @@
 # SkyBox 🌌📦
-##### A really simple "infinite" obstacle game created using Unity with C# 👾.
+##### A simple "infinite" obstacle game created using Unity with C# 👾.
 ##### Created as a mini tutorial into Unity 3D game development~
 
 Note: I tried various settings to enable gameplay on WebGL and here are the settings that worked for me! (At a cost of its lagginess)
